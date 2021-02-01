@@ -23,7 +23,9 @@ defineProps({
 const state = reactive({ count: 0 })
 </script>
 
-<style scoped>
+<style scoped lang="less">
+@import '../global.less';
+
 a {
   color: #42b983;
 }

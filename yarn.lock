@@ -574,10 +574,10 @@ v-click-outside-x@^3.7.1:
   resolved "https://registry.yarnpkg.com/v-click-outside-x/-/v-click-outside-x-3.7.1.tgz#aa03eaa0e41e44cb5207dcf86c2d9f0dd64084c1"
   integrity sha512-WmUgmcIXr9clVpm1AYS/FgHtcDicfnfoxgQCNg4O6vfk9GVnxA0vSqO321ogUo0b7czYTidj7fQENvWFMWOkUg==
 
-view-design@^4.5.0-beta.5:
-  version "4.5.0-beta.5"
-  resolved "https://registry.yarnpkg.com/view-design/-/view-design-4.5.0-beta.5.tgz#220e40547d11d7ebf690d694eb546a0b9f2e5a2a"
-  integrity sha512-2qEppZUMGzrvJgLv/MatLXKNkm4TX/DYxSr6yzcmaKtmkcobbHw0CyjeYTrQ/F6HpMCcSfIKYhfO8e+18A+IPA==
+view-design@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/view-design/-/view-design-4.4.0.tgz#c3eef5abdacd70601ed5efc9028b006657e66a8d"
+  integrity sha512-2+xbda6/USUm9Pn+D25NPsIBg7XVhkFC90Ycs0GcFQ4AHZ1QRwDGOj0PGA3eeL4yuVpigdDfmwmNJAoczYXlPA==
   dependencies:
     async-validator "^3.3.0"
     deepmerge "^2.2.1"
@@ -588,10 +588,10 @@ view-design@^4.5.0-beta.5:
     tinycolor2 "^1.4.1"
     v-click-outside-x "^3.7.1"
 
-vite@^2.0.0-beta.48:
-  version "2.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.49.tgz#a4d96107bbd72aedbe91baf0c53345d9ef559b2b"
-  integrity sha512-8bbweM0qOZLQgrPwvJpO0D82TDCfJB8QSQtRxgPOOmw3w4Ss67MIBxtJtzf0SmTnLYqS8reNrE7OknkQD3AWWw==
+vite@^2.0.0-beta.60:
+  version "2.0.0-beta.60"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.60.tgz#160d69968f29d05e0a4a22a6cc690d997fd793ea"
+  integrity sha512-B3qaJrSp0pbgjv2ROA7/0KRgJFs+QhH43OTo6Hau/dGopKotZFuE04FBRCjJ3+h0ePEH4DUG7+e2tUUgkywb0A==
   dependencies:
     esbuild "^0.8.34"
     postcss "^8.2.1"
